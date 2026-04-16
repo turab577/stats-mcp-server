@@ -1,0 +1,1 @@
+Currently , it is a local mcp server just used to connect the claude ai with the stats. It will bring our system stats and access claude to use them on demand . 
